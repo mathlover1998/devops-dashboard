@@ -1,0 +1,6 @@
+pyproject.toml
+devops_dashboard.egg-info/PKG-INFO
+devops_dashboard.egg-info/SOURCES.txt
+devops_dashboard.egg-info/dependency_links.txt
+devops_dashboard.egg-info/requires.txt
+devops_dashboard.egg-info/top_level.txt
