@@ -64,3 +64,4 @@ Thumbs.db
 # Coverage / Reports
 # =========================
 coverage.xml
+.github/
